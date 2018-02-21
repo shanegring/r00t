@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/shanegring/GitHub/r00t/user/themes/learn2-git-sync/languages.yaml',
-    'modified' => 1518620056,
+    'modified' => 1519231176,
     'data' => [
         'en' => [
             'THEME_LEARN2_GIT_EDIT_THIS_PAGE' => 'Edit this Page',

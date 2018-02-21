@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/shanegring/GitHub/r00t/user/plugins/form/form.yaml',
-    'modified' => 1518620040,
+    'modified' => 1519231176,
     'data' => [
         'enabled' => true,
         'built_in_css' => true,

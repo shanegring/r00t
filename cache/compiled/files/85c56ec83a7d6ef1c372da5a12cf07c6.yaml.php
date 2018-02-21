@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/shanegring/GitHub/r00t/user/config/system.yaml',
-    'modified' => 1519229933,
+    'modified' => 1519232732,
     'data' => [
         'absolute_urls' => false,
         'param_sep' => ':',
@@ -10,7 +10,7 @@ return [
         'reverse_proxy_setup' => false,
         'force_ssl' => false,
         'force_lowercase_urls' => true,
-        'custom_base_url' => 'https://github.com/shanegring/r00t.git',
+        'custom_base_url' => '',
         'username_regex' => '^[a-z0-9_-]{3,16}$',
         'pwd_regex' => '(?=.*\\d)(?=.*[a-z])(?=.*[A-Z]).{8,}',
         'intl_enabled' => true,

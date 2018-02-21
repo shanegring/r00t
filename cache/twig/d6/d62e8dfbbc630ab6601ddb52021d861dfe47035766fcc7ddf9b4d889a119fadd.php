@@ -305,6 +305,6 @@ class __TwigTemplate_603efd50239cab3fe36f52b01281a586071a5d8bfd43e8c55b65ecd8c7a
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "partials/sidebar.html.twig", "/Users/shanegring/GitHub/r00t-documentation/user/themes/r00t/templates/partials/sidebar.html.twig");
+        return new Twig_Source("", "partials/sidebar.html.twig", "/Users/shanegring/GitHub/r00t/user/themes/r00t/templates/partials/sidebar.html.twig");
     }
 }

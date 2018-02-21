@@ -50,6 +50,6 @@ class __TwigTemplate_10446e6a21c2344f1950fd8476fc6962ec9dc1b7dcf69c5b0637dcb6887
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "partials/logo.html.twig", "/Users/shanegring/GitHub/r00t-documentation/user/themes/r00t/templates/partials/logo.html.twig");
+        return new Twig_Source("", "partials/logo.html.twig", "/Users/shanegring/GitHub/r00t/user/themes/r00t/templates/partials/logo.html.twig");
     }
 }

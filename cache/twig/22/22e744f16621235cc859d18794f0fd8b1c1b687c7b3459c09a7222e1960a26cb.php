@@ -209,6 +209,6 @@ class __TwigTemplate_e4c6b76268eeb8288e9a94574982474e00b4a613de1c7083be989678d34
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "partials/github_link.html.twig", "/Users/shanegring/GitHub/r00t-documentation/user/themes/r00t/templates/partials/github_link.html.twig");
+        return new Twig_Source("", "partials/github_link.html.twig", "/Users/shanegring/GitHub/r00t/user/themes/r00t/templates/partials/github_link.html.twig");
     }
 }

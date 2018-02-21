@@ -1,121 +1,121 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1519230194,
-    'checksum' => '4d21d562f9d87b87fffaab58e1e1a42a',
+    'timestamp' => 1519233054,
+    'checksum' => 'bc75452fb851a74bb06517d165c8a437',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1518619846
+                'modified' => 1519231175
             ],
             'plugins/admin' => [
                 'file' => 'user/config/plugins/admin.yaml',
-                'modified' => 1518619846
+                'modified' => 1519231175
             ],
             'plugins/anchors' => [
                 'file' => 'user/config/plugins/anchors.yaml',
-                'modified' => 1518619846
+                'modified' => 1519231175
             ],
             'plugins/external_links' => [
                 'file' => 'user/config/plugins/external_links.yaml',
-                'modified' => 1518619846
+                'modified' => 1519231175
             ],
             'plugins/feed' => [
                 'file' => 'user/config/plugins/feed.yaml',
-                'modified' => 1518619846
+                'modified' => 1519231175
             ],
             'plugins/git-sync' => [
                 'file' => 'user/config/plugins/git-sync.yaml',
-                'modified' => 1519226443
+                'modified' => 1519231175
             ],
             'plugins/highlight' => [
                 'file' => 'user/config/plugins/highlight.yaml',
-                'modified' => 1518619846
+                'modified' => 1519231175
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/config/plugins/simplesearch.yaml',
-                'modified' => 1518619846
+                'modified' => 1519231175
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1518619846
+                'modified' => 1519231175
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1519159369
+                'modified' => 1519231175
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1518619846
+                'modified' => 1519231175
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1519229933
+                'modified' => 1519232732
             ],
-            'xthemes/learn2-git-sync' => [
-                'file' => 'user/config/xthemes/learn2-git-sync.yaml',
-                'modified' => 1518619846
+            'themes/learn2-git-sync' => [
+                'file' => 'user/config/themes/learn2-git-sync.yaml',
+                'modified' => 1519231175
             ],
-            'xthemes/mytheme' => [
-                'file' => 'user/config/xthemes/mytheme.yaml',
-                'modified' => 1518619846
+            'themes/mytheme' => [
+                'file' => 'user/config/themes/mytheme.yaml',
+                'modified' => 1519231175
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1512557018
+                'modified' => 1519231175
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1512557018
+                'modified' => 1519231175
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1512557018
+                'modified' => 1519231175
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1519229383
+                'modified' => 1519232543
             ]
         ],
         'user/plugins' => [
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1518620040
+                'modified' => 1519231176
             ],
             'plugins/highlight' => [
                 'file' => 'user/plugins/highlight/highlight.yaml',
-                'modified' => 1518620054
+                'modified' => 1519231176
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1518620038
+                'modified' => 1519231175
             ],
             'plugins/youtube' => [
                 'file' => 'user/plugins/youtube/youtube.yaml',
-                'modified' => 1518620056
+                'modified' => 1519231176
             ],
             'plugins/external_links' => [
                 'file' => 'user/plugins/external_links/external_links.yaml',
-                'modified' => 1518620048
+                'modified' => 1519231176
             ],
             'plugins/feed' => [
                 'file' => 'user/plugins/feed/feed.yaml',
-                'modified' => 1518620050
+                'modified' => 1519231176
             ],
             'plugins/git-sync' => [
                 'file' => 'user/plugins/git-sync/git-sync.yaml',
-                'modified' => 1518620052
+                'modified' => 1519231176
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1518620042
+                'modified' => 1519231176
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1518620044
+                'modified' => 1519231175
             ]
         ]
     ],
@@ -717,7 +717,7 @@ return [
             'reverse_proxy_setup' => false,
             'force_ssl' => false,
             'force_lowercase_urls' => true,
-            'custom_base_url' => 'https://github.com/shanegring/r00t.git',
+            'custom_base_url' => '',
             'username_regex' => '^[a-z0-9_-]{3,16}$',
             'pwd_regex' => '(?=.*\\d)(?=.*[a-z])(?=.*[A-Z]).{8,}',
             'intl_enabled' => true,
@@ -898,7 +898,7 @@ return [
         'security' => [
             'salt' => 'RxcdD7p3wefIvV'
         ],
-        'xthemes' => [
+        'themes' => [
             'learn2-git-sync' => [
                 'enabled' => true,
                 'top_level_version' => false,

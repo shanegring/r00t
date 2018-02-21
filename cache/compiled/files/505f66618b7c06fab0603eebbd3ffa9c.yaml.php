@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/shanegring/GitHub/r00t/user/plugins/email/email.yaml',
-    'modified' => 1518620044,
+    'modified' => 1519231175,
     'data' => [
         'enabled' => true,
         'from' => NULL,

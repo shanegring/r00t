@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/shanegring/GitHub/r00t/user/plugins/youtube/blueprints.yaml',
-    'modified' => 1518620056,
+    'modified' => 1519231176,
     'data' => [
         'name' => 'YouTube',
         'version' => '2.0.4',

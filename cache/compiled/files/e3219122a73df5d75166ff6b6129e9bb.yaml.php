@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/shanegring/GitHub/r00t/user/config/site.yaml',
-    'modified' => 1519159369,
+    'modified' => 1519231175,
     'data' => [
         'title' => 'r00t',
         'default_lang' => 'en',

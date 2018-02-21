@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/shanegring/GitHub/r00t/user/plugins/admin/blueprints.yaml',
-    'modified' => 1518620038,
+    'modified' => 1519231175,
     'data' => [
         'name' => 'Admin Panel',
         'version' => '1.6.7',

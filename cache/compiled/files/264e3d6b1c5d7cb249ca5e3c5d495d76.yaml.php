@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/shanegring/GitHub/r00t/user/config/plugins/external_links.yaml',
-    'modified' => 1518619846,
+    'modified' => 1519231175,
     'data' => [
         'enabled' => true,
         'built_in_css' => false,

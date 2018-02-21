@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/shanegring/GitHub/r00t/system/blueprints/config/streams.yaml',
-    'modified' => 1512557018,
+    'modified' => 1519231175,
     'data' => [
         'title' => 'PLUGIN_ADMIN.FILE_STREAMS',
         'form' => [

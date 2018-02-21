@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/shanegring/GitHub/r00t/user/plugins/feed/feed.yaml',
-    'modified' => 1518620050,
+    'modified' => 1519231176,
     'data' => [
         'enabled' => true,
         'limit' => 10,
