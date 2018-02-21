@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1519226443,
-    'checksum' => 'a6021621cc4e1a1e0d2d91c46d41c1d3',
+    'timestamp' => 1519227784,
+    'checksum' => '5ff40636c779a8c7a7f6cc5d336ecf8b',
     'files' => [
         'user/config' => [
             'media' => [
@@ -51,7 +51,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1519163125
+                'modified' => 1519227784
             ],
             'xthemes/learn2-git-sync' => [
                 'file' => 'user/config/xthemes/learn2-git-sync.yaml',
@@ -733,7 +733,7 @@ return [
                 'override_locale' => false
             ],
             'home' => [
-                'alias' => '/basics',
+                'alias' => '/setup',
                 'hide_in_urls' => false
             ],
             'pages' => [
