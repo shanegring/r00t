@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1519229595,
-    'checksum' => '3defed4ec8cfb27c0d0de36a8c752341',
+    'timestamp' => 1519230194,
+    'checksum' => '4d21d562f9d87b87fffaab58e1e1a42a',
     'files' => [
         'user/config' => [
             'media' => [
@@ -51,7 +51,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1519229166
+                'modified' => 1519229933
             ],
             'xthemes/learn2-git-sync' => [
                 'file' => 'user/config/xthemes/learn2-git-sync.yaml',
@@ -717,7 +717,7 @@ return [
             'reverse_proxy_setup' => false,
             'force_ssl' => false,
             'force_lowercase_urls' => true,
-            'custom_base_url' => 'http://localhost:8888',
+            'custom_base_url' => 'https://github.com/shanegring/r00t.git',
             'username_regex' => '^[a-z0-9_-]{3,16}$',
             'pwd_regex' => '(?=.*\\d)(?=.*[a-z])(?=.*[A-Z]).{8,}',
             'intl_enabled' => true,
